@@ -1,0 +1,9 @@
+step,towns
+"Incorporated places, contiguous states",19334
+"... at least 20 miles from any other place of 1,000+",923
+"... and at least 100 miles from any city of 100,000+",592
+"... with 2022 population of at most 50,000",591
+... with a name unique among the isolated towns of its state,591
+... with a ZIP code named for the town in both the 2000 and 2016 ZBP,544
+... with town populations and county covariates in every year,542
+... with at least 120 residents in 2016 (estimation sample),445

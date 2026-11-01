@@ -1,0 +1,22 @@
+# Large Census downloads, fetched by src/build_markets.py on first run
+data/raw/acsdt5y2022-b01003.dat
+data/raw/sub-est2023.csv
+data/raw/SUB-EST2020_ALL.csv
+data/raw/sub-est00int.csv
+data/raw/zbp00detail.zip
+data/raw/zbp16detail.zip
+data/raw/zbp22detail.zip
+*.part
+
+# Secrets
+*.key
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
